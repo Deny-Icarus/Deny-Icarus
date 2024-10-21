@@ -16,4 +16,4 @@ print ('--'*100)
 😄 Pronouns: He/Him
 ⚡ Fun fact: When I’m not coding, I enjoy playing Valorant or EAFC, going to the beach, doing theater, or hanging out with friends and family.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Jt3yx0l" data-context="false" ><a href="//imgur.com/a/Jt3yx0l"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="//imgur.com/a/Jt3yx0l"> </a>
